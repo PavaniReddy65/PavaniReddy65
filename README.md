@@ -2,8 +2,8 @@
 - 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on cisco
-- 📫 How to reach me:📧 Email: pavanipitti50@gmail.com
-                      💼 LinkedIn:  https://www.linkedin.com/feed/ 
+- 📫 How to reach me:📧 Email: orugantipittipavanireddy@gmail.com
+                      💼 LinkedIn:  https://www.linkedin.com/in/pavani-pitti/
 - 😄 Pronouns: She
 - ⚡ Fun fact: I organized a successful college fest, which sparked my interest in project management and teamwork!
 
