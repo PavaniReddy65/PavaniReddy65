@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PavaniReddy65
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate on cisco
+- 👀 I’m interested in Python Development and Backend Development  
+- 🌱 I’m currently learning Python, Django, and Full Stack Development
+- 💞️ I’m looking to collaborate on Python and Django-based projects
 - 📫 How to reach me:📧 Email: orugantipittipavanireddy@gmail.com
                       💼 LinkedIn:  https://www.linkedin.com/in/pavani-pitti/
 - 😄 Pronouns: She
